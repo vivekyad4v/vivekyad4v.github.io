@@ -5,14 +5,14 @@
   i18n: Kubernetes
   gh_user: vivekyad4v
   repo: kubernetes
-  img: /static/assets/img/landing/jekyll.png
+  img: /static/assets/img/landing/kubernetes-series.png
   desc: This project is my k8s project.
 
 - name: aws-elasticbeanstalk-multi-container
   i18n: aws-elasticbeanstalk-multi-container
   gh_user: vivekyad4v
   repo: aws-elasticbeanstalk-multi-container
-  img: /static/assets/img/landing/python.png
+  img: /static/assets/img/landing/aws-eb-ecs.png
   desc: This project is other JSON project.
 
 #- name: Google
