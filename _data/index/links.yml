@@ -3,19 +3,19 @@
   first_name: Hub
   desc: Open source projects
   website: https://github.com/vivekyad4v
-#  email: vivekyad4v@gmail.com
+  email: vivekyad4v@gmail.com
 
 # links section data
 - last_name: Stack
   first_name: Overflow
   desc: Q/A on stackoverflow
   website: https://stackoverflow.com/users/3802507/vivekyad4v
-#  email: vivekyad4v@gmail.com
+  email: vivekyad4v@gmail.com
 
 # links section data
 - last_name: Docker
   first_name: Hub
   desc: docker images
   website: https://hub.docker.com/u/vivekyad4v/
-#  email: vivekyad4v@gmail.com
+  email: vivekyad4v@gmail.com
 

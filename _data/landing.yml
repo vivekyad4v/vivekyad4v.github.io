@@ -33,6 +33,6 @@
 
 - id: connect
   i18n: nav.link
-  name: Links
+  name: Share
   tpl: links.html
   css: contact
