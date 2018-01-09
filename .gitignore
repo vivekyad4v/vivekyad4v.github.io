@@ -5,6 +5,12 @@ __pycache__/
 
 # C extensions
 *.so
+_site/
+.sass-cache/
+*.DS_Store
+.idea
+*.swp
+.Trashes
 
 # Distribution / packaging
 .Python
