@@ -4,13 +4,16 @@
     detail: Hashedin
     i18n: company_a
   desc:
-    detail: I worked at Company A ...
+    detail: > Responsible for Dockerizing & managing customer applications, building a CI/CD environment, making applications(microservices) highly available & scalalble. 
+              Worked on technologies like Docker (engine|compose|swarm|machine), AWS EB multi-container, Ansible, Jenkins pipeline, HAproxy, Nginx, Jenkins, Gunicorn, Apache,
+              NewRelic, Logentries, Gatling, ApacheBenchmark & Shell scripting.              
+
     i18n: company_a_desc
   date:
-    detail: Jun. 2016
+    detail: June 2016 - Present
     i18n: company_a_date
   job:
-    detail: CTO
+    detail: DevOps Engineer
     i18n: company_a_job
   icon: fa-plus-square
 
@@ -18,12 +21,32 @@
     detail: NTT Data Services
     i18n: company_b
   desc:
-    detail: I worked at NTT Data Services...
+    detail: > Worked on managing customers applications in Data Centers. Used technologies like Kerberos, HAProxy, Apache, NFS, AutoFS, F5/A10 LB,
+              HA Bind DNS, GlusterFS, AFS, Linux server hardening, Bash & Perl.    
+
     i18n: company_b_desc
   date:
-    detail: Jun. 2015
+    detail: June 2015 - June 2016
     i18n: company_b_date
   job:
-    detail: Full Stack Developer
+    detail: Sr. System Admin Associate
     i18n: company_b_job
   icon: fa-plus-square
+
+- name:
+    detail: RayMn & BR Technologies
+    i18n: company_b
+  desc:
+    detail: > Managing linux servers in private network and client's servers on different hostings like AWS, Linode Hivelocity, DigitalOcean, Godaddy, Hostgator, Rackspace etc across the globe.
+              Used technologies like LAMP, Varnish, MemCache, Cpanel, WHM, Webmin, Virtualmin, Squid, OpenLDAP, NFS, PAM, Kickstart, PXE/NetBoot, DHCP, NFS, TFTP, Samba, VNC,
+              Nagios, Observium, Zabbix, NRPE, Monit, NewRelic, Munin, Linodelongview, FTP,subversion, DenyHosts( bruteforce attacks), Maldet, htaccess & shell scripting.
+
+    i18n: company_b_desc
+  date:
+    detail: July 2013 - May 2015
+    i18n: company_b_date
+  job:
+    detail: Linux Administrator
+    i18n: company_b_job
+  icon: fa-plus-square
+
