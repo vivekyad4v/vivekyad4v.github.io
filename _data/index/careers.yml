@@ -4,7 +4,7 @@
     detail: Hashedin
     i18n: company_a
   desc:
-    detail: Responsible for Dockerizing & managing customer applications, building a CI/CD environment, making applications(microservices) highly available & scalalble. Worked on technologies like Docker (engine|compose|swarm|machine), AWS EB multi-container, Ansible, Jenkins pipeline, HAproxy, Nginx, Jenkins, Gunicorn, Apache, NewRelic, Logentries, Gatling, ApacheBenchmark & Shell scripting.              
+    detail: Responsible for Dockerizing & managing customer applications, building a CI/CD environment, making applications(microservices) highly available & scalable. Worked on technologies like Docker (engine|compose|swarm|machine), AWS EB multi-container, Ansible, Jenkins pipeline, HAproxy, Nginx, Jenkins, Gunicorn, Apache, NewRelic, Logentries, Gatling, ApacheBenchmark & Shell scripting.              
     i18n: company_a_desc
   date:
     detail: June 2016 - Present
