@@ -13,8 +13,8 @@ img_path: "/static/assets/img/blog"  # url should be '/homepage/static/assets/im
 # author -- index page "about me" section
 author:  # change following line to your infomation.
   name: vivekyad4v - Vivek Kumar Yadav  # Be used at blog posts' author.
-  first_name: Kumar Yadav  # Be used at index page about me section.
-  last_name: Vivek  # Be used at index page about me section.
+  first_name: Vivek  # Be used at index page about me section.
+  last_name: Kumar Yadav # Be used at index page about me section.
   avatar: /static/assets/img/landing/vivekyad4v.jpg  # upload your avatar at directory and edit it.
   github_username: vivekyad4v  # Leave blank if you don't have now
   linkedin_id: vivekyad4v # Leave blank if you don't have now
