@@ -2,5 +2,5 @@
 
 label: Ability
 id : cs
-aspects: Docker, AWS, Linux, Shell, Kubernetes, Jenkins, Vagrant, Logentries, NewRelic, Nginx, Apache, HAProxy, Gunicorn, Celery
-percentage: 90, 80, 75, 70, 50, 70, 70, 80, 80, 80, 80, 80, 75, 75
+aspects: Docker, AWS, Linux, Shell, Kubernetes, Jenkins, Vagrant, Logentries, NewRelic, Nginx, Apache, HAProxy, Gunicorn, Celery, Continuous integration, Continuos Deployment, Distributed Systems
+percentage: 90, 80, 75, 70, 50, 70, 70, 80, 80, 80, 80, 80, 75, 75, 80, 80, 75
