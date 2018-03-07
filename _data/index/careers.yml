@@ -1,6 +1,20 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name:
+    detail: Happay
+    i18n: company_a
+  desc:
+    detail: Responsible for Dockerizing & managing customer applications, building a CI/CD environment, making applications(microservices) highly available & scalable. Worked on AWS services like EC2, VPC, IAM, RDS(Postgres), DMS, Cloudwatch, Cloudformation, Elasticsearch, Elasticache, S3, Cloudfront, Route53, ElasticBeanstalk etc. Also worked on Bitbucket, Github, Dockerhub, Jenkins, TravisCI, Cloudwatch, NewRelic, Logentries, ELK to manage source code, CI/CD & monitoring of python & ReactJS applications.
+    i18n: company_a_desc
+  date:
+    detail: October 2017 - Present
+    i18n: company_a_date
+  job:
+    detail: DevOps Engineer
+    i18n: company_a_job
+  icon: fa-plus-square
+
+- name:
     detail: Hashedin
     i18n: company_a
   desc:
