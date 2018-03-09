@@ -9,5 +9,5 @@ tags: [LessonsInLife]
 icon: icon-fire-alt
 ---
 
-### FAILURES ARE IMPORTANT
-		There is nothing in life which comes with just profit or just loss, it always has a combination of both. If we fail at times, we got to take it as experience. Obviuosly, we are humans & cannot commit everything right everytime without failures.
+# FAILURES ARE IMPORTANT
+	There is nothing in life which comes with just profit or just loss, it always has a combination of both. If we fail at times, we got to take it as experience. Obviuosly, we are humans & cannot commit everything right everytime without failures.
