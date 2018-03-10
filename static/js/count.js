@@ -4,7 +4,8 @@ $(document).ready(function() {
     $.ajax({
         type: "get",
         async: false,
-        url: "http://miniapp.jack003.com/counter.cgi",
+//        url: "http://miniapp.jack003.com/counter.cgi",
+        url: "https://google.com/",
         dataType: "jsonp",
         jsonp: "callback",
         jsonpCallback: "flightHandler",
