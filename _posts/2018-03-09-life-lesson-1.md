@@ -4,8 +4,8 @@ title:  "Life - Profit & Loss"
 date:   2018-03-09
 desc: "FAILURES ARE IMPORTANT"
 keywords: "life,lessons,facts"
-categories: [LIFE]
-tags: [LessonsInLife]
+categories: [Life]
+tags: [Lessons-Of-Life]
 icon: icon-fire-alt
 ---
 
