@@ -4,13 +4,13 @@
     detail: Happay
     i18n: company_a
   desc:
-    detail: Responsible for Dockerizing & managing customer applications, building a CI/CD environment, making applications(microservices) highly available & scalable. Worked on AWS services like EC2, VPC, IAM, RDS(Postgres), DMS, Cloudwatch, Cloudformation, Elasticsearch, Elasticache, S3, Cloudfront, Route53, ElasticBeanstalk etc. Also worked on Bitbucket, Github, Dockerhub, Jenkins, TravisCI, Cloudwatch, NewRelic, Logentries, ELK to manage source code, CI/CD & monitoring of python & ReactJS applications.
+    detail: Responsible for Dockerizing & managing/maintaining customer applications.
     i18n: company_a_desc
   date:
     detail: October 2017 - Present
     i18n: company_a_date
   job:
-    detail: DevOps Engineer
+    detail: Devops Engineer
     i18n: company_a_job
   icon: fa-plus-square
 
@@ -18,13 +18,13 @@
     detail: Hashedin
     i18n: company_a
   desc:
-    detail: Responsible for Dockerizing & managing customer applications, building a CI/CD environment, making applications(microservices) highly available & scalable. Worked on technologies like Docker (engine|compose|swarm|machine), AWS EB multi-container, Ansible, Jenkins pipeline, HAproxy, Nginx, Jenkins, Gunicorn, Apache, NewRelic, Logentries, Gatling, ApacheBenchmark & Shell scripting.              
+    detail: Responsible for Dockerizing & managing/maintaining customer applications.
     i18n: company_a_desc
   date:
     detail: June 2016 - Present
     i18n: company_a_date
   job:
-    detail: DevOps Engineer
+    detail: Devops Engineer
     i18n: company_a_job
   icon: fa-plus-square
 
@@ -55,4 +55,3 @@
     detail: Linux Administrator
     i18n: company_b_job
   icon: fa-plus-square
-

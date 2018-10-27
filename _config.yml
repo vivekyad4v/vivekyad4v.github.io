@@ -2,8 +2,8 @@
 
 # Website settings
 title: vivekyad4v - Vivek Kumar Yadav
-description: vivekyad4v, docker, aws, linux, shell, jenkins, CI/CD, Kubernetes.
-keywords: vivekyad4v, docker, aws, linux, shell, jenkins, CI/CD, Kubernetes.
+description: vivekyad4v, docker, aws, terraform, linux, shell, jenkins, CI/CD, Kubernetes.
+keywords: vivekyad4v, docker, aws, terraform, linux, shell, jenkins, CI/CD, Kubernetes.
 
 #baseurl:  /Jalpc # if you have suburl as homepage like '/homepage', please change it to '/homepage' and your repo's name should be 'homepage'
 url: https://vivekyad4v.github.io  # url should be 'http://<github_username>.github.io/homepage' as before
@@ -29,7 +29,7 @@ author:  # change following line to your infomation.
   skill_icon2:
     - name: fa-linux
     - name: icon-apache
-  desc: DevOps | Linux | OpenSource | Human   # Describe yourself.
+  desc: Devops | Linux | OpenSource | Human   # Describe yourself.
 
 # comment
 disqus:  # if you wanna comment feature, go to https://disqus.com/ to get your configuration; if not, comment following two lines.
@@ -52,8 +52,8 @@ gio:  # if you wanna this feature, go to https://www.growingio.com/ to get your 
 donation: off  # type 'on'/'off' to choice display donation button at post page or not
 
 ## carousels
-index_carousel: off  # index page carousel switch
-blog_carousel: off  # blog page carousel switch
+index_carousel: on  # index page carousel switch
+blog_carousel: on  # blog page carousel switch
 
 # scss
 sass:
@@ -68,4 +68,3 @@ markdown: kramdown
 kramdown:
   input: GFM
   syntax_highlighter: rouge
-
