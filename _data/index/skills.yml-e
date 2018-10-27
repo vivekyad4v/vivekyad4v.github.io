@@ -1,6 +1,0 @@
-# skills section data
-
-label: Ability
-id : cs
-aspects: Docker, AWS, Terraform, Kubernetes, Linux, Shell, Jenkins, Continuous integration, Continous deployment, Nginx, Gunicorn, Vagrant, Distributed Systems
-percentage: 85, 80, 80, 75, 70, 75, 75, 80, 80, 80, 75, 75, 70
