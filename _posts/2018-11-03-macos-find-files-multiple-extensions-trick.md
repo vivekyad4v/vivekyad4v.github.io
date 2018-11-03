@@ -25,7 +25,6 @@ icon: icon-fire-alt
   `find -E . -regex '.*\.(jpg|png|mp4|mp3|csv|txt)' -exec cp {} ~/found/ \;`
 &nbsp;
 &nbsp;
-
 ### You can also copy them to individual directories - 
 &nbsp;
 #### Copy all MP4 files to `videos` directory -
