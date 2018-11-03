@@ -13,13 +13,13 @@
 #  href: /html/
 
 - name: Devops
-  href: /Devops/
+  href: /devops/
 
 #- name: Mac
 #  href: /mac/
 
 - name: Life
-  href: /Life/
+  href: /life/
 
 # Don't display donation page: change donation to off at file '_config.yml'
 - name: Donate
