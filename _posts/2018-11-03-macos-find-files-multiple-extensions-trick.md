@@ -23,6 +23,7 @@ icon: icon-fire-alt
   `mkdir ~/found`
 
   `find -E . -regex '.*\.(jpg|png|mp4|mp3|csv|txt)' -exec cp {} ~/found/ \;`
+
 &nbsp;
 &nbsp;
 ### You can also copy them to individual directories - 
