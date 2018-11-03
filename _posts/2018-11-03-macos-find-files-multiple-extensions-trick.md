@@ -23,10 +23,10 @@ icon: icon-fire-alt
   `mkdir ~/found`
 
   `find -E . -regex '.*\.(jpg|png|mp4|mp3|csv|txt)' -exec cp {} ~/found/ \;`
-
+&nbsp;
+&nbsp;
 
 ### You can also copy them to individual directories - 
-&nbsp;
 &nbsp;
 #### Copy all MP4 files to `videos` directory -
 &nbsp;
@@ -39,9 +39,9 @@ icon: icon-fire-alt
   `mkdir ~/found`
 
   `find -E . -regex '.*\.(mp4)' -exec cp {} ~/found/videos/ \;`
+
 &nbsp;
-
-
+&nbsp;
 #### Copy all image files to `images` directory -
 &nbsp;
 
