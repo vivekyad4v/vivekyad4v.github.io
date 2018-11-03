@@ -9,37 +9,44 @@ tags: [Linux, Shell, DevOps, MacOS]
 icon: icon-fire-alt
 ---
 
-## **MacOS - Find all video, audio, CSVs, text files and copy it to other directories for backup etc**
+## You don't need to go to Finder, lookout for each & then copy paste.
 
-### You don't need to go to Finder, lookout for each & then copy paste.
-
-##### You can either copy all of them at once using below find command with regex incorporating with `rsync` or `cp` - 
+### You can either copy all of them at once using below find command with regex incorporating with `rsync` or `cp` - 
 
 - Using `rsync` - 
+
   `find -E . -regex '.*\.(jpg|png|mp4|mp3|csv|txt)' -exec rsync -avzh {} ~/found/ \;`
 
 - Using `cp` - 
+
   `mkdir ~/found`
+
   `find -E . -regex '.*\.(jpg|png|mp4|mp3|csv|txt)' -exec cp {} ~/found/ \;`
 
-##### You can also copy them to individual directories - 
+### You can also copy them to individual directories - 
 
-Copy all MP4 files to `videos` directory -
+#### Copy all MP4 files to `videos` directory -
 
 - Using `rsync` -
+
   `find -E . -regex '.*\.(mp4)' -exec rsync -avzh {} ~/found/videos/ \;`
 
 - Using `cp` -
+
   `mkdir ~/found`
+
   `find -E . -regex '.*\.(mp4)' -exec cp {} ~/found/videos/ \;`
 
-Copy all image files to `images` directory -
+#### Copy all image files to `images` directory -
 
 - Using `rsync` -
+
   `find -E . -regex '.*\.(jpg|png|jpeg)' -exec rsync -avzh {} ~/found/images/ \;`
 
 - Using `cp` -
+
   `mkdir ~/found`
+
   `find -E . -regex '.*\.(jpg|png|jpeg)' -exec cp {} ~/found/images/ \;`
 
 
