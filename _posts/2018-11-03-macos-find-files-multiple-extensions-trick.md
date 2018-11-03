@@ -10,11 +10,10 @@ icon: icon-fire-alt
 ---
 
 ## You don't need to go to Finder, lookout for each & then copy paste.
-
-
+&nbsp;
+&nbsp;
 ### You can either copy all of them at once using below find command with regex incorporating with `rsync` or `cp` - 
-
-
+&nbsp;
 - Using `rsync` - 
 
   `find -E . -regex '.*\.(jpg|png|mp4|mp3|csv|txt)' -exec rsync -avzh {} ~/found/ \;`
@@ -27,11 +26,10 @@ icon: icon-fire-alt
 
 
 ### You can also copy them to individual directories - 
-
-
+&nbsp;
+&nbsp;
 #### Copy all MP4 files to `videos` directory -
-
-
+&nbsp;
 - Using `rsync` -
 
   `find -E . -regex '.*\.(mp4)' -exec rsync -avzh {} ~/found/videos/ \;`
@@ -41,9 +39,11 @@ icon: icon-fire-alt
   `mkdir ~/found`
 
   `find -E . -regex '.*\.(mp4)' -exec cp {} ~/found/videos/ \;`
+&nbsp;
 
 
 #### Copy all image files to `images` directory -
+&nbsp;
 
 - Using `rsync` -
 
@@ -55,6 +55,8 @@ icon: icon-fire-alt
 
   `find -E . -regex '.*\.(jpg|png|jpeg)' -exec cp {} ~/found/images/ \;`
 
+&nbsp;
+&nbsp;
 
 
 > **Note:** We can create simple shell script and put it as a cronjob, using rsync you can perform inremental backup of your data to another drive or folder. 
