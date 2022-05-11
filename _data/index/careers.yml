@@ -1,16 +1,29 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name:
+    detail: BYJU's
+    i18n: company_a
+  desc:
+    detail: Managing a team focussed technically towards cloud computing, highly available & scalable cloud architecture, Infrastructure management, AWS cloud, container orchestration, Serverless frameworks, CICD, security, cost optimization, logging, monitoring.
+    i18n: company_a_desc
+  date:
+    detail: October 2021 - Present
+    i18n: company_a_date
+  job:
+    detail: DevOps Lead
+    i18n: company_a_job
+  icon: fa-plus-square
+- name:
     detail: Happay
     i18n: company_a
   desc:
     detail: Responsible for Dockerizing & managing/maintaining customer applications.
     i18n: company_a_desc
   date:
-    detail: October 2017 - Present
+    detail: October 2017 - October 2021
     i18n: company_a_date
   job:
-    detail: Senior DevOps Engineer
+    detail: DevSecOps Lead
     i18n: company_a_job
   icon: fa-plus-square
 
