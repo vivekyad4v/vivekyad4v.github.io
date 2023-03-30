@@ -1,13 +1,26 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name:
+    detail: KODO
+    i18n: company_a
+  desc:
+    detail: Managing & maintaining AWS cloud, highly available & scalable cloud architecture, Infrastructure automation & management, AWS cloud, container orchestration(ECS/EKS), Serverless frameworks, CICD, security, cost optimization, logging, monitoring & compliances. Managing application platform on EKS with API gateways, logging, monitoring, cloud controllers, custom controllers, CICD, authentication(IAM/IRSA) using Terraform, Helm & Kubectl. Following infra as code and GitOps principles. Focusing a lot more on security & compliances - Cloudflare, Cloudflare Zero Trust, IDS/IPS, Firewalls, SOC2 compliance, PCI compliance, 1password, AWS KMS, Vanta.
+    i18n: company_a_desc
+  date:
+    detail: September 2022 - Present
+    i18n: company_a_date
+  job:
+    detail: Principal DevSecOps Engineer
+    i18n: company_a_job
+  icon: fa-plus-square
+- name:
     detail: BYJU's
     i18n: company_a
   desc:
     detail: Managing a team focussed technically towards cloud computing, highly available & scalable cloud architecture, Infrastructure management, AWS cloud, container orchestration, Serverless frameworks, CICD, security, cost optimization, logging, monitoring.
     i18n: company_a_desc
   date:
-    detail: October 2021 - Present
+    detail: October 2021 - September 2022
     i18n: company_a_date
   job:
     detail: DevOps Lead
