@@ -2,5 +2,5 @@
 
 label: Ability
 id: cs
-aspects: AWS & Azure Cloud, IaC, CICD, Observability, Container orchestration, Programming/Scripting, Incident, Security, Service Mesh, API gateways, GitOps, Linux & Networking
-percentage: 90, 85, 85, 80, 85, 75, 80, 80, 70, 70, 80, 80
+aspects: AWS & Azure Cloud, IaC, CICD, Observability, Container orchestration, Programming/Scripting, Incident Mgmt, Security, Service Mesh, API gateways, GitOps, Linux & Networking
+percentage: 90, 85, 85, 80, 90, 75, 80, 80, 70, 70, 80, 80
