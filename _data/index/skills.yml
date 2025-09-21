@@ -2,5 +2,5 @@
 
 - label: Ability
   id: cs
-  aspects: AWS & Azure Cloud, IaC (Terraform, Ansible, Packer, CloudFormation), CI/CD (Jenkins, GitHub Actions, Azure DevOps, CodePipeline, ArgoCD), Observability (Prometheus, Grafana, ELK, Kiali, OpenTelemetry, Datadog, NewRelic), Container Orchestration (Kubernetes, AKS, EKS, Docker, Swarm, ECS), Programming/Scripting (Python, Golang, Bash), Incident Management (Slack, JIRA, Azure DevOps, Squadcast, PagerDuty), Security (ISO, SOC2, PCI, SIEM, IDS/IPS), Service Mesh (Istio), API Gateways (Kong, Gloo), GitOps (ArgoCD, Helm), Linux & Networking
+  aspects: AWS & Azure Cloud, IaC (Terraform | Ansible | Packer | CloudFormation), CI/CD (Jenkins | GitHub Actions | Azure DevOps | CodePipeline | ArgoCD), Observability (Prometheus | Grafana | ELK | Kiali | OpenTelemetry | Datadog | NewRelic), Container Orchestration (Kubernetes | AKS | EKS | Docker | Swarm | ECS), Programming/Scripting (Python | Golang | Bash), Incident Management (Slack | JIRA | Azure DevOps | Squadcast | PagerDuty), Security (ISO | SOC2 | PCI | SIEM | IDS/IPS), Service Mesh (Istio), API Gateways (Kong | Gloo), GitOps (ArgoCD | Helm), Linux & Networking
   percentage: 90, 85, 85, 80, 85, 75, 80, 80, 70, 70, 80, 80
