@@ -2,5 +2,5 @@
 
 - label: Ability
   id : cs
-  aspects: Docker, AWS, Terraform, AWS ECS|EKS, Kubernetes, Linux, Shell, Jenkins, CICD Integrations, Distributed Systems, Golang, Data Migration
+  aspects: Docker, AWS, Terraform, ECS/EKS, Kubernetes, Linux, Shell, Jenkins, CICD, Distributed, Golang, Data
   percentage: 85, 80, 80, 80, 70, 75, 75, 80, 80, 80, 60, 75
