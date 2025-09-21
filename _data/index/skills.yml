@@ -1,6 +1,6 @@
 # skills section data
 
 label: Ability
-id : cs
-aspects: Docker, AWS, Terraform, AWS ECS|EKS, Kubernetes, Linux, Shell, Jenkins, CICD Integrations, Distributed Systems, Golang, Data Migration
-percentage: 85, 80, 80, 80, 70, 75, 75, 80, 80, 80, 60, 75
+id: cs
+aspects: AWS & Azure Cloud, IaC (Terraform|Ansible|Packer|CloudFormation), CICD (Jenkins|Github Actions|Azure DevOps|Codepipeline|ArgoCD), Observability (Prometheus|Grafana|ELK|Kiali|Opentelemetry|Datadog|Newrelic), Container orchestration (Kubernetes|AKS|EKS|Docker|Swarm|ECS), Programming/Scripting (Python|Golang|Bash), Incident (Slack|JIRA|AzureDevOps|Squadcast|Pagerduty), Security (ISO|SOC2|PCI|SIEM|IDS/IPS), Service Mesh (Istio), API gateways (Kong|Gloo), GitOps (ArgoCD|Helm), Linux & Networking
+percentage: 90, 85, 85, 80, 85, 75, 80, 80, 70, 70, 80, 80
