@@ -4,7 +4,8 @@
     detail: KODO
     i18n: company_a
   desc:
-    detail: Managing & maintaining AWS cloud, highly available & scalable cloud architecture, Infrastructure automation & management, AWS cloud, container orchestration(ECS/EKS), Serverless frameworks, CICD, security, cost optimization, logging, monitoring & compliances. Managing application platform on EKS with API gateways, logging, monitoring, cloud controllers, custom controllers, CICD, authentication(IAM/IRSA) using Terraform, Helm & Kubectl. Following infra as code and GitOps principles. Focusing a lot more on security & compliances - Cloudflare, Cloudflare Zero Trust, IDS/IPS, Firewalls, SOC2 compliance, PCI compliance, 1password, AWS KMS, Vanta.
+    detail: |
+      Building a microservices hosting platform from scratch on Kubernetes (EKS & AKS), creating the backbone for the company’s engineering velocity. I led the cloud migration from AWS to Azure, re-architecting infrastructure for scalability, performance, and compliance. I automated everyday operations with Python and Go, freeing developers from repetitive tasks and accelerating delivery cycles. Security was front and center, where I integrated Teleport, Cloudflare Zero Trust, SOC2, PCI, SIEM, IDS/IPS, and firewalls to harden the platform. I also embedded security and quality scans (Trivy, SpotBugs, SonarQube) directly into CI/CD pipelines, shifting security left. On observability, I rolled out a full monitoring ecosystem with Prometheus, Grafana, Istio, ELK/ECK, Kiali, Jaeger, and OpenTelemetry, all tied into Slack, JIRA, and Squadcast for real-time incident response. This role was about building the DevSecOps foundation from the ground up, combining automation, security, and reliability.
     i18n: company_a_desc
   date:
     detail: September 2022 - Present
@@ -17,7 +18,8 @@
     detail: BYJU's
     i18n: company_a
   desc:
-    detail: Managing a team focussed technically towards cloud computing, highly available & scalable cloud architecture, Infrastructure management, AWS cloud, container orchestration, Serverless frameworks, CICD, security, cost optimization, logging, monitoring.
+    detail: |
+      Re-architected AWS accounts and infrastructure, introduced immutable deployments with Packer + Terraform, and streamlined delivery pipelines. I deployed and managed hundreds of microservices on EKS/ECS, building a scalable backbone for the business. To improve velocity, I championed CI/CD and GitOps workflows, which reduced release risks and accelerated delivery. Alongside this, I drove cloud cost optimization and reinforced security compliance, ensuring the edtech platform remained both efficient and resilient. Ensuring uptime and scale during global peak traffic — especially when worldwide ad campaigns drove massive spikes.
     i18n: company_a_desc
   date:
     detail: October 2021 - September 2022
@@ -30,7 +32,8 @@
     detail: Happay
     i18n: company_a
   desc:
-    detail: Responsible for Dockerizing & managing/maintaining customer applications.
+    detail: |
+      Responsible for establishing DevSecOps practices from scratch. I re-architected AWS accounts, rolled out Terraform for Infrastructure as Code, and designed CI/CD pipelines with Jenkins to standardize deployments. Beyond infra, I built Python and Bash automation scripts to support developers, cut cloud costs, and simplify ad-hoc operations. Security and compliance were a constant focus, where I aligned the platform with SOC2 and PCI standards. Over time, I scaled microservices architectures to handle growing fintech workloads while keeping costs under control. This role gave me full ownership of the DevSecOps journey end-to-end — from infra design to automation to compliance.
     i18n: company_a_desc
   date:
     detail: October 2017 - October 2021
@@ -44,7 +47,8 @@
     detail: Hashedin
     i18n: company_a
   desc:
-    detail: Responsible for Dockerizing & managing/maintaining customer applications.
+    detail: |
+      Focused on modernizing legacy workloads into cloud-native deployments. I containerized multiple applications and migrated them onto Docker Swarm and Kubernetes, improving resilience and scalability. I introduced Jenkins pipelines and Terraform-based IaC, which automated deployments and reduced manual errors. My work also involved managing AWS infrastructure and ensuring monitoring and integrations were in place for client systems. This role sharpened my ability to blend automation with scalability, laying the foundation for my later leadership roles in DevOps.
     i18n: company_a_desc
   date:
     detail: June 2016 - Present
@@ -58,7 +62,8 @@
     detail: NTT Data Services
     i18n: company_b
   desc:
-    detail: Worked on managing customers applications in Data Centers. Used technologies like Kerberos, HAProxy, Apache, NFS, AutoFS, F5/A10 LB, HA Bind DNS, GlusterFS, AFS, Linux server hardening, Bash & Perl.
+    detail: |
+      Managed enterprise-scale infrastructure across HAProxy, F5, and A10 load balancers, DNS, and distributed file systems. I automated repetitive sysadmin tasks, improving uptime and reliability for mission-critical systems. I supported Apache Tomcat applications while also strengthening monitoring practices using Nagios, Zabbix, and Monit, cutting incident response times. This experience grounded me in the discipline of reliability engineering — learning how large-scale enterprises balance performance, availability, and cost.
     i18n: company_b_desc
   date:
     detail: June 2015 - June 2016
@@ -72,7 +77,8 @@
     detail: RayMn & BR Technologies
     i18n: company_b
   desc:
-    detail: Managing linux servers in private network and client's servers on different hostings like AWS, Linode Hivelocity, DigitalOcean, Godaddy, Hostgator, Rackspace etc across the globe. Used technologies like LAMP, Varnish, MemCache, Cpanel, WHM, Webmin, Virtualmin, Squid, OpenLDAP, NFS, PAM, Kickstart, PXE/NetBoot, DHCP, NFS, TFTP, Samba, VNC, Nagios, Observium, Zabbix, NRPE, Monit, NewRelic, Munin, Linodelongview, FTP,subversion, DenyHosts( bruteforce attacks), Maldet, htaccess & shell scripting.
+    detail: |
+      Worked as a hands-on Linux administrator, managing LAMP stacks, VPS hosting, and CPanel/WHM environments. I configured and optimized LDAP, Samba, and NFS servers, ensuring smooth operations for clients. Importantly, I started writing Python and Shell scripts to automate repetitive infra tasks, which improved developer productivity and reduced downtime. I also deployed monitoring systems with Nagios and Observium, helping teams become proactive instead of reactive. This role gave me my first taste of automation and DevOps thinking, setting the stage for my journey into cloud and platform engineering.
     i18n: company_b_desc
   date:
     detail: July 2013 - May 2015

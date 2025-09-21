@@ -1,9 +1,9 @@
 # Welcome to Jekyll!
 
 # Website settings
-title: Vivek Kumar (DevSecOps)
-description: vivekyad4v, docker, aws, ECS, EKS, terraform, linux, shell, jenkins, CI/CD, Kubernetes, Golang, vivek, yadav, devops.
-keywords: vivekyad4v, docker, aws, terraform, linux, shell, jenkins, CI/CD, Kubernetes, Golang, vivekyadavdevops, vivek, yadav, kumar, devsecops.
+title: Vivek Kumar (DevOps|SRE|Cloud|Platform Engineer)
+description: vivekyad4v, Docker, AWS, Azure, ECS, EKS, Terraform, Linux, Bash, Python, Jenkins, CI/CD, Kubernetes, Golang, DevOps, Security, DevOps|SRE|Cloud|Platform Engineer
+keywords: vivekyad4v, docker, aws, terraform, linux, shell, jenkins, CI/CD, Kubernetes, Golang, vivekyadavdevops, vivek, yadav, kumar, devsecops, DevOps|SRE|Cloud|Platform Engineer
 
 #baseurl:  /Jalpc # if you have suburl as homepage like '/homepage', please change it to '/homepage' and your repo's name should be 'homepage'
 url: https://vivekyad4v.github.io  # url should be 'http://<github_username>.github.io/homepage' as before
@@ -18,9 +18,8 @@ author:  # change following line to your infomation.
   avatar: /static/assets/img/landing/vivekyad4v.jpg  # upload your avatar at directory and edit it.
   linkedin_id: vivekyad4v # Leave blank if you don't have now
   github_username: vivekyad4v  # Leave blank if you don't have now
-  twitter_username: vivekyad4v  # Leave blank if you don't have now
   email: vivekyad4v@gmail.com  # Leave blank if you don't have now
-  cv: https://github.com/vivekyad4v/vivek-cvs-public/blob/main/Resume-30-03-2022-wop.pdf  
+  cv: https://github.com/vivekyad4v/vivek-cvs-public/blob/main/resume-20-09-25-vivek-wo.pdf  
 
   skill_icon1:
     - name: icon-apache
@@ -28,7 +27,7 @@ author:  # change following line to your infomation.
   skill_icon2:
     - name: fa-linux
     - name: icon-apache
-  desc: DevSecOps | AWS Cloud | Serverless | Containerization | Microservices | Linux | OpenSource   # Describe yourself.
+  desc: DevOps|SRE|Cloud|Platform Engineer   # Describe yourself.
 
 # comment
 disqus:  # if you wanna comment feature, go to https://disqus.com/ to get your configuration; if not, comment following two lines.
